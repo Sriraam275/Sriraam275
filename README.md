@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=SRIRAAM%20N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=SRIRAAM%20N&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20-%20Cloud%20and%20Automation&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://linkedin.com/in/sriraam275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sriraamnataraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -181,21 +181,6 @@ I'd rather point at a gap than pretend it isn't there. Right now I'm going deep 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&width=1000"/>
 
 <a name="stats"></a>
-## 📊 GitHub Stats & Trophies
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sriraam275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=Sriraam275&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sriraam275&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&width=1000"/>
-
-<a name="contact"></a>
-<div align="center">
 
 ## 📬 Let's Connect
 

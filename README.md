@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=I+don't+just+deploy+code+%E2%80%94+I+build+systems+that+watch+themselves;Jenkins+%2B+Docker+%2B+AWS+%2B+a+healthy+obsession+with+uptime;Ask+me+about+CI%2FCD+pipelines%2C+VPC+design%2C+or+why+deploys+failed+silently;Currently+turning+Kubernetes+from+a+gap+into+a+strength" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=I+don't+just+deploy+code+%E2%80%94+I+build+systems+that+watch+themselves;Jenkins+%2B+Docker+%2B+AWS+%2B+a+healthy+obsession+with+uptime;Ask+me+about+CI%2FCD+pipelines%2C+VPC+design%2C+or+why+deploys+failed+silently;Currently+turning+Kubernetes+from+a+gap+into+a+strength" alt="Typing SVG
 
 <br/><br/>
 
